@@ -1,0 +1,15 @@
+{
+  "name":"Unit Conversion App",
+
+  "short_name":"Unit Conversion App",
+
+  "icons":[{
+    "src":"/favicon.png","sizes":"512x512","type":"image/png"
+  }],
+
+  "theme_color":"#121921",
+
+  "background_color":"#121921",
+
+  "display":"standalone"
+}
